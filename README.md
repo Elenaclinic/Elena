@@ -1,5 +1,5 @@
 # Портфолио
 
-Всем привет,меня зовут Елена!
+Всем привет!Меня зовут Елена!
 
-![фото котика]("C:\Users\User\Pictures\1626811323_4-funart-pro-p-rizhii-britanskii-kot-s-zelenimi-glazami-z-5.jpg")
+![фото котика](https://funart.pro/uploads/posts/2021-07/1626811373_18-funart-pro-p-rizhii-britanskii-kot-s-zelenimi-glazami-z-20.jpg)<!--  -->
